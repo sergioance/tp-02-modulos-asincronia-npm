@@ -1,0 +1,17 @@
+{
+  "name": "tp-02-modulos-asincronia-npm",
+  "version": "1.0.0",
+  "description": "Aplicación de consola que lee un catálogo de juegos de mesa desde un archivo JSON, transforma los registros y genera un informe de texto.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node -c src/archivos.js && node -c src/juegos.js && node -c src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}

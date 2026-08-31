@@ -1,0 +1,22 @@
+Catálogo de Juegos de Mesa
+Total: 4
+
+1. Catan (Kosmos, 1995)
+   Jugadores: 3-4
+   Categorías: Estrategia, Comercio
+   Estado: Disponible
+
+2. Carcassonne (Hans im Glück, 2000)
+   Jugadores: 2-5
+   Categorías: Construcción, Territorio
+   Estado: Disponible
+
+3. Dixit (Libellud, 2008)
+   Jugadores: 3-6
+   Categorías: Creatividad, Narración
+   Estado: No disponible
+
+4. Azul (Plan B Games, 2017)
+   Jugadores: 2-4
+   Categorías: Abstracto, Puzzle
+   Estado: Disponible

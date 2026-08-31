@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Catan",
+    "editorial": "Kosmos",
+    "anio": 1995,
+    "jugadoresMin": 3,
+    "jugadoresMax": 4,
+    "categorias": ["Estrategia", "Comercio"],
+    "disponible": true
+  },
+  {
+    "titulo": "Carcassonne",
+    "editorial": "Hans im Glück",
+    "anio": 2000,
+    "jugadoresMin": 2,
+    "jugadoresMax": 5,
+    "categorias": ["Construcción", "Territorio"],
+    "disponible": true
+  },
+  {
+    "titulo": "Dixit",
+    "editorial": "Libellud",
+    "anio": 2008,
+    "jugadoresMin": 3,
+    "jugadoresMax": 6,
+    "categorias": ["Creatividad", "Narración"],
+    "disponible": false
+  },
+  {
+    "titulo": "Azul",
+    "editorial": "Plan B Games",
+    "anio": 2017,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Abstracto", "Puzzle"],
+    "disponible": true
+  }
+]
